@@ -18,6 +18,7 @@ HOW TO ADD TO YOUR OWN PROFILE
 0.5 Star this repo & Follow Roxiun
 1. Fork this repo and name it your GitHub username
 2. Edit the stats link with your username
+3. Edit the title text and replace the image src with the image of your choice
 3. Edit your description
 NOTE: YOU MUST LEAVE IN THE MADE BY ROXIUN TEXT, IT IS REQUIRED BY THE LICENSE
 --->
