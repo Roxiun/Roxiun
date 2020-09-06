@@ -23,3 +23,8 @@ HOW TO ADD TO YOUR OWN PROFILE
 NOTE: YOU MUST LEAVE IN THE MADE BY ROXIUN TEXT, IT IS REQUIRED BY THE LICENSE
 --->
 
+<!----
+TODO:
+==========
+* Make Better & Redesign
+--->
