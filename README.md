@@ -27,4 +27,5 @@ NOTE: YOU MUST LEAVE IN THE MADE BY ROXIUN TEXT, IT IS REQUIRED BY THE LICENSE
 TODO:
 ==========
 * Make Better & Redesign
+* Add more Info and easier template editing
 --->
