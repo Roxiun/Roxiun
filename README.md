@@ -9,6 +9,7 @@ My primary languages are Python and Javascript. I also know a bunch more languag
 ![Roxiun's github stats](https://github-readme-stats.vercel.app/api?username=roxiun&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxiun&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roxiun&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 *README.md Made by Roxiun* <!-- You must leave this in it is required by thr GNU GPL v3.0 Lisence -->
 
