@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> o/ <img src="https://raw.githubusercontent.com/Roxiun/Roxiun/main/horse.jpg" width="40px"></h1>
+  <h1> o/ <img src="https://raw.githubusercontent.com/Roxiun/Roxiun/main/horse.jpg" width="200px"></h1>
 </div>
 
 # Biography
