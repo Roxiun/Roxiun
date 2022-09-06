@@ -1,3 +1,7 @@
+<div align="center">
+  <h1> o/ <img src="https://raw.githubusercontent.com/Roxiun/Roxiun/main/horse.jpg" width="40px"></h1>
+</div>
+
 # Biography
 My name is Kaniye Poot and I was was born in Sydney, Australia on the 13th of Jully 1994 to a Dutch father and an Australian mother. Since then I have migrated to the Netherlands and am currently completing a Master’s degree in History at the University of Groningen. My father's family is of Minnesotan and Dutch heritage. Their surname is pronounced “poot” and they are called “poets” in their native language, Dutch.
 
